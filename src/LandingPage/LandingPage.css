@@ -1,0 +1,30 @@
+#btn {
+    width: 70px;
+    height: 40px;
+    border: 2px solid rgb(15 157 88);
+    margin-left: 65%;
+    color: rgb(15 157 88);
+    border-radius: 15%;
+    font-weight: 800;
+}
+
+.Landingpage {
+    display: flex;
+    width: 100vh;
+    height: 70vh;
+    margin: auto;
+    margin-top:7%;
+}
+
+img {
+    height: 70vh;
+    width: 50vh;
+}
+
+h1 {
+    margin-top: 93%;
+    margin-left: 36%;
+    width:100%;
+    color: rgb(15 157 88);
+
+}

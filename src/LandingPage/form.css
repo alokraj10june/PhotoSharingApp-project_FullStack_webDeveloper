@@ -1,0 +1,39 @@
+form {
+    border: 1px solid;
+    height: 200px;
+    width: 474px;
+    margin:50px 400px ;
+    background-color: white;
+}
+input[type="file"] {
+    margin-left: 123px;
+    margin-top: 20px;
+}
+
+.desc {
+    width: 53px;
+}
+
+.des input[type="text"] {
+    width: 62px;
+}
+input.description {
+    width: 405px;
+}
+
+input[type="text"] {
+    margin: 10px 30px;
+}
+
+button#form-btn {
+    margin-left: 182px;
+    width: 61px;
+    height: 30px;
+    margin-top: 5px;
+    background-color: #3abdcf;
+    border: 1px solid;
+}
+
+button #form-btn:hover {
+    border: 1px solid #3abdcf;
+}

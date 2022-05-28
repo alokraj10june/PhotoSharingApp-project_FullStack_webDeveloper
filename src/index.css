@@ -1,0 +1,111 @@
+.PostContainer {
+    border: 2px solid #d5d5d5;
+    width: 500px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.PostTitle {
+    color: #343434;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.PostLocation {
+    color: #b3b3b3;
+    line-height: 20px;
+}
+
+.PostHeader>div {
+    display: inline-block;
+    line-height: 50px;
+}
+
+
+.PostTitleWrapper {
+    width: calc(100% - 80px);
+    padding: 10px;
+}
+
+.PostAction {
+    width: 60px;
+    font-weight: 600;
+    color: #343434;
+    font-size: 30px;
+    line-height: 30px;
+    padding-bottom: 30px;
+    vertical-align: top;
+    cursor: pointer;
+}
+
+.PostImageWrapper img {
+    max-height: 240px;
+    display: block;
+    width: 500px;
+}
+
+.PostImageWrapper {
+    text-align: center;
+    background: white;
+}
+
+.Postview {
+    margin-left: 30%;
+}
+
+.left-side {
+    float: left;
+    color: rgb(15 157 88);
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.right-side {
+    float: right;
+    margin-right: 100px;
+    border: none;
+    transform: rotate(0deg) translateY(15px);
+}
+
+.LikeShareContainer button {
+    background: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.ShareBtn {
+    transform: rotate(325deg) translateY(-2px);
+}
+
+.header-container {
+    border: 2px solid #d5d5d5;
+    height: 60px;
+    margin-bottom: 10px;
+    width: 800px;
+    margin-left: 250px;
+}
+
+
+.PostedOn {
+    text-align: right;
+    color: #8a8a8a;
+}
+
+.PostDetails>div {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(50% - 20px);
+    padding: 10px;
+}
+
+.Likes {
+    color: #8a8a8a;
+    padding-left: 8px;
+    font-size: 13px;
+}
+
+.PostCaption {
+    padding-left: 14px;
+}
