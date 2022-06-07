@@ -23,7 +23,7 @@ const Form = () => {
         // formData.append('date', "new Date()");
         try {
             const response = await axios.post(
-                'https://instaclone-server-10x.herokuapp.com/api/v1/post',
+                'https://instaclonebackend-10x.herokuapp.com/api/v1/post',
                 formData
             );
             navigate('/Postview');
